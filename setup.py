@@ -5,12 +5,12 @@ if sys.version_info < (3, 7):
     print("WARNING: Python 3.7 or newer is recommended. If you encounter bugs, try updating python")
 
 install_requires = [
-    "numpy==1.20.1",
+    "numpy==1.22.0",
     "matplotlib==3.3.4",
-    "scipy==1.6.1",
+    "scipy==1.10.0",
     "liftover==1.1.11",
     "python-magic==0.4.24",
-    "requests==2.22.0",
+    "requests==2.31.0",
 ]
 
 classifiers = """
