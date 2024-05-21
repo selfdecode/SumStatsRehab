@@ -10,7 +10,7 @@ install_requires = [
     "scipy==1.10.0",
     "liftover==1.1.11",
     "python-magic==0.4.24",
-    "requests==2.31.0",
+    "requests==2.32.0",
 ]
 
 classifiers = """
